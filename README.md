@@ -1,37 +1,24 @@
-# SQL Practice and Projects
+# SQL Assignment 1
 
-## About This Repository
-This repository contains my SQL assignments, practice exercises, and database projects completed using MySQL and MySQL Workbench.
+SQL assignment completed using MySQL Workbench.
 
-I am using this repository to document my learning progress, improve my SQL skills, and maintain an organized portfolio of my work.
+## Files Included
+- SQL query solutions for Questions 1–12
+- Original assignment PDF
+- Screenshots showing query outputs
 
-## Repository Structure
-
-| Folder/File | Description |
-|---|---|
-| `01-sql-assignment-1/` | First SQL assignment |
-| `assignment_1.sql` | SQL query solutions |
-| `assignment_1.pdf` | Assignment questions |
-| `screenshots/` | Query outputs for Questions 1–12 |
-
-## Skills Practiced
-- SQL queries and filtering
+## Topics Covered
+- SQL filtering and sorting
 - Joins and subqueries
 - Aggregate functions
-- GROUP BY and CASE statements
+- CASE expressions
 - Date functions
-- Sorting, LIMIT and OFFSET
+- LIMIT and OFFSET
 
-## Tools Used
+## Tools
 - MySQL
 - MySQL Workbench
 - GitHub
-
-## How to Use
-1. Open the relevant `.sql` file in MySQL Workbench.
-2. Make sure the required database, tables, and data are available.
-3. Execute each query and review its output.
-4. Refer to the screenshots for example query results.
 
 
 
